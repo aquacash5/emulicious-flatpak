@@ -29,7 +29,7 @@
       <li>Adjustable Turbo</li>
       <li>Adjustable Throttle</li>
       <li>IPS Patching</li>
-      <li>Savestates</li>
+      <li>Save states</li>
     </ul>
     <p>
       <b>Emulicious</b> provides many features that can be useful for ROM hacking and Homebrew development:
@@ -52,6 +52,10 @@
       <li>Remote Debugging</li>
     </ul>
   </description>
+  <branding>
+    <color type="primary" scheme_preference="light">#eef4e8</color>
+    <color type="primary" scheme_preference="dark">#407a05</color>
+  </branding>
   <launchable type="desktop-id">net.emulicious.Emulicious.desktop</launchable>
   <categories>
     <category>Development</category>
