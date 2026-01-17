@@ -9,6 +9,8 @@
     "gameboy",
     "HDMA",
     "launchable",
+    "metainfo",
+    "pulseaudio",
     "Stegmaier",
     "Tilemap",
     "Watchpoint"
