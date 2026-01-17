@@ -3,7 +3,7 @@
 <component type="desktop-application">
   <id>net.emulicious.Emulicious</id>
   <name>Emulicious</name>
-  <summary>Game Boy, Game Boy Color, Master System, Game Gear and MSX Emulator</summary>
+  <summary>Multi-system emulator</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-Emulicious</project_license>
   <developer id="net.emulicious">
@@ -11,18 +11,10 @@
   </developer>
   <description>
     <p>
-      <b>Emulicious</b> is a free to use multi-system emulator.
+      **Emulicious** is a Game Boy, Game Boy Color, Master System, Game Gear and MSX Emulator.
     </p>
-    <p>Supports the following emulators:</p>
-    <ul>
-      <li>A Nintendo Game Boy Emulator</li>
-      <li>A Nintendo Game Boy Color Emulator</li>
-      <li>A Sega Master System Emulator</li>
-      <li>A Sega Game Gear Emulator</li>
-      <li>An MSX Emulator</li>
-    </ul>
     <p>
-      Even though <b>Emulicious</b> aims for precision and accurate emulation it still provides some additional features and tools:
+      Even though **Emulicious** aims for precision and accurate emulation it still provides some additional features and tools:
     </p>
     <ul>
       <li>Automatic Updates</li>
@@ -32,25 +24,21 @@
       <li>Save states</li>
     </ul>
     <p>
-      <b>Emulicious</b> provides many features that can be useful for ROM hacking and Homebrew development:
+      **Emulicious** provides many features that can be useful for ROM hacking and Homebrew development:
     </p>
     <ul>
-      <li>Debugger (including an interactive disassembler with automated code/data separation and reverse stepping/backward stepping)</li>
+      <li>Debugger</li>
       <li>Profiler</li>
       <li>Tracer</li>
-      <li>Coverage Analyzer</li>
       <li>Memory Editor</li>
       <li>Palette Viewer</li>
       <li>Tile Viewer</li>
       <li>Tilemap Viewer</li>
       <li>Sprite Viewer</li>
       <li>Sound Viewer</li>
-      <li>Data Plotter</li>
-      <li>RAM Search</li>
-      <li>RAM Watch</li>
-      <li>Memory Tracer</li>
-      <li>Remote Debugging</li>
+      <li>etc...</li>
     </ul>
+    <p>**To enable VSCode debugging support follow the guide at https://github.com/aquacash5/emulicious-flatpak**</p>
   </description>
   <launchable type="desktop-id">net.emulicious.Emulicious.desktop</launchable>
   <categories>
@@ -99,24 +87,16 @@
   </releases>
   <screenshots>
     <screenshot type="default">
-      <caption>Emulicious Master System Emulator</caption>
-      <image type="source" width="570" height="551">https://emulicious.net/wp-content/uploads/2015/04/Emulicious-e1610545895450.png</image>
+      <caption>Emulicious Game Boy Color - Dangan GB2</caption>
+      <image type="source" width="739" height="714">https://media.githubusercontent.com/media/aquacash5/emulicious-flatpak/refs/heads/main/screenshots/dangan_gb2.png</image>
     </screenshot>
     <screenshot>
-      <caption>Emulicious Game Boy Color Emulator</caption>
-      <image type="source" width="482" height="497">https://emulicious.net/wp-content/uploads/2015/04/Emulicious-Game-Boy-Color-Emulator-e1610540920814.png</image>
-    </screenshot>
-    <screenshot>
-      <caption>Emulicious Game Boy Emulator</caption>
-      <image type="source" width="482" height="497">https://emulicious.net/wp-content/uploads/2015/04/Emulicious-Game-Boy-Emulator-e1610540895447.png</image>
-    </screenshot>
-    <screenshot>
-      <caption>Emulicious Game Gear Emulator</caption>
-      <image type="source" width="482" height="497">https://emulicious.net/wp-content/uploads/2015/04/Emulicious-Game-Gear-Emulator-e1610538519489.png</image>
+      <caption>Emulicious Game Gear - RetroPIPE</caption>
+      <image type="source" width="1330" height="1068">https://media.githubusercontent.com/media/aquacash5/emulicious-flatpak/refs/heads/main/screenshots/retropipe.png</image>
     </screenshot>
     <screenshot>
       <caption>Emulicious Debugger</caption>
-      <image type="source" width="1644" height="910">https://emulicious.net/wp-content/uploads/2022/01/Emulicious-Debugger.png</image>
+      <image type="source" width="1580" height="1023">https://media.githubusercontent.com/media/aquacash5/emulicious-flatpak/refs/heads/main/screenshots/debugger.png</image>
     </screenshot>
   </screenshots>
 </component>
