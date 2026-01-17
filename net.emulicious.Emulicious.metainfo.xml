@@ -52,10 +52,6 @@
       <li>Remote Debugging</li>
     </ul>
   </description>
-  <branding>
-    <color type="primary" scheme_preference="light">#eef4e8</color>
-    <color type="primary" scheme_preference="dark">#407a05</color>
-  </branding>
   <launchable type="desktop-id">net.emulicious.Emulicious.desktop</launchable>
   <categories>
     <category>Development</category>
