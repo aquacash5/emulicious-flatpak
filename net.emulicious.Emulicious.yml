@@ -6,11 +6,10 @@ sdk-extensions:
   - org.freedesktop.Sdk.Extension.openjdk25
 command: emulicious
 finish-args:
-  - --share=network
   - --device=dri
   - --socket=pulseaudio
   - --socket=x11
-  - --filesystem=home:ro
+  - --filesystem=home
 
 modules:
   - name: openjdk
