@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <id>net.emulicious.Emulicious</id>
+  <name>Emulicious</name>
+  <summary>Game Boy, Game Boy Color, Master System, Game Gear and MSX Emulator</summary>
+  <url type="homepage">https://emulicious.net</url>
+  <metadata_license>CC0-1.0</metadata_license>
+
+  <releases>
+    <release version="2025.12" date="2025.12.01" />
+  </releases>
+  <developer id="net.emulicious">
+    <name>Calindro</name>
+  </developer>
+
+  <screenshots>
+    <screenshot type="default">
+      <caption>Emulicious Master System Emulator</caption>
+      <image type="source" width="570" height="551">https://emulicious.net/wp-content/uploads/2015/04/Emulicious-e1610545895450.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Emulicious Game Boy Color Emulator</caption>
+      <image type="source" width="482" height="497">https://emulicious.net/wp-content/uploads/2015/04/Emulicious-Game-Boy-Color-Emulator-e1610540920814.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Emulicious Game Boy Emulator</caption>
+      <image type="source" width="482" height="497">https://emulicious.net/wp-content/uploads/2015/04/Emulicious-Game-Boy-Emulator-e1610540895447.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Emulicious Game Gear Emulator</caption>
+      <image type="source" width="482" height="497">https://emulicious.net/wp-content/uploads/2015/04/Emulicious-Game-Gear-Emulator-e1610538519489.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Emulicious Debugger</caption>
+      <image type="source" width="1644" height="910">https://emulicious.net/wp-content/uploads/2022/01/Emulicious-Debugger.png</image>
+    </screenshot>
+  </screenshots>
+</component>

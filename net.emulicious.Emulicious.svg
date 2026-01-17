@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 3617.8 3617.8"
+   xml:space="preserve"
+   width="3617.8"
+   height="3617.8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+   id="defs5" />
+	<title
+   id="title1">emulicious</title>
+	<g
+   id="g5"
+   transform="translate(0,452.20002)">
+		<g
+   id="g4">
+			<path
+   fill="#007777"
+   d="M 3075.1,0 H 542.7 C 243,0 0,243 0,542.7 v 1628 c 0,299.7 243,542.7 542.7,542.7 h 2532.4 c 299.7,0 542.7,-243 542.7,-542.7 V 542.7 C 3617.7,243 3374.8,0 3075.1,0 Z"
+   id="path1" />
+			<g
+   id="g3">
+				<path
+   fill="#bbff44"
+   d="m 1571.4,542.7 h 475 c 18.7,0 33.8,15.2 33.8,33.8 v 475 c 0,18.7 -15.2,33.8 -33.8,33.8 h -475 c -18.7,0 -33.8,-15.2 -33.8,-33.8 v -475 c 0,-18.7 15.1,-33.8 33.8,-33.8 z"
+   id="path2" />
+				<path
+   fill="#bbff44"
+   d="M 1571.4,2170.6 H 3617.7 V 1628 H 1571.4 c -18.7,0 -33.8,15.1 -33.8,33.8 0,0 0,0 0,0 v 475 c 0,18.7 15.1,33.8 33.8,33.8 z"
+   id="path3" />
+			</g>
+		</g>
+	</g>
+<metadata
+   id="metadata5"><rdf:RDF><cc:Work
+       rdf:about=""><dc:title>emulicious</dc:title></cc:Work></rdf:RDF></metadata></svg>
