@@ -11,7 +11,8 @@ build:
   flatpak-builder --force-clean --user --install-deps-from=flathub --repo=repo --install builddir {{PACKAGE}}.yml
 
 bundle:
-  flatpak build-bundle repo emulicious.flatpak {{PACKAGE}} --runtime-repo=https://flathub.org/repo/flathub.flatpakrepo
+  mkdir -p dist
+  flatpak build-bundle repo dist/emulicious.flatpak {{PACKAGE}} --runtime-repo=https://flathub.org/repo/flathub.flatpakrepo
 
 run:
   flatpak run {{PACKAGE}}
