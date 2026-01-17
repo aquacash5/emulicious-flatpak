@@ -1,6 +1,7 @@
 {
   "cSpell.words": [
-    "Emulicious"
+    "Emulicious",
+    "gameboy"
   ],
   "files.watcherExclude": {
     "**/.git/objects/**": true,
