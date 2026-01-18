@@ -3,5 +3,5 @@ export PATH=/app/jre/bin:/usr/bin
 
 java \
     --enable-native-access=ALL-UNNAMED \
-    -jar "/app/share/net.emulicious.Emulicious/Emulicious.jar" \
+    -jar "/app/extra/emulicious/Emulicious.jar" \
     "$@"
