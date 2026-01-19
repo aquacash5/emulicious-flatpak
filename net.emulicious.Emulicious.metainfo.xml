@@ -51,7 +51,7 @@
     <control>pointing</control>
   </requires>
   <releases>
-    <release version="2024.08.31" date="2024.08.31">
+    <!-- <release version="2024.08.31" date="2024.08.31">
       <description>
         <ul>
           <li>Added Overlays feature to the debugger</li>
@@ -62,6 +62,19 @@
           <li>Fixed MBC1M detection (thanks to ProstatePunch and PinoBatch)</li>
           <li>Fixed that the "Add Expression" text was missing on a Linux theme (thanks to bbbbbr)</li>
           <li>Fixed precedence of @@ operator (thanks to badcomputer)</li>
+        </ul>
+      </description>
+    </release> -->
+    <release version="2024.05.31" date="2024.05.31">
+      <description>
+        <ul>
+          <li>Added value formatting for strings used in expressions and messages</li>
+          <li>Fixed the priority of the RAM registers of the Master Everdrive (thanks to toxa)</li>
+          <li>Fixed an issue with video encoding set to use FLAC with older versions of FFMPEG (thanks to bbbbbr)</li>
+          <li>Fixed an issue that prevented includes with absolute paths to work in the source code parser (thanks to Sono)</li>
+          <li>Fixed an issue with adding breakpoints on ports/hardware registers (e.g. rSCX) in the Breakpoints tab</li>
+          <li>Report progress of video encoding in the titlebar and when Emulicious is closed</li>
+          <li>Made key shortcuts for Toggle Fullscreen and Toggle Turbo configurable (thanks to Disk Poppy Ninja and DEFENSE MECHANISM)</li>
         </ul>
       </description>
     </release>

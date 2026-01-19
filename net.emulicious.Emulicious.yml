@@ -29,9 +29,9 @@ modules:
     sources:
       - type: extra-data
         filename: emulicious.zip
-        url: https://emulicious.net/download/emulicious/
-        sha256: 53c9b3104b6938044d230b4f4e422e56cae687ceff1bb0bf9fc794fe62fb272e
-        size: 2929925
+        url: https://emulicious.net/emulicious/downloads/emulicious-2024-05-31.zip
+        sha256: e7d1da24a20e37f2bc161158eb304c8ec6dca81d9c7765f0843dffd032ec5220
+        size: 2906320
       - type: file
         path: emulicious
       - type: file
